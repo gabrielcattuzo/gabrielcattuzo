@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Cattuzo, born in Brazil
 - 🪧(Portuguese-BR) (English)
-- 💻Languages: HTML, CSS, JavaScript, C++, C, Assembly
+- 💻Languages: HTML, CSS, JavaScript
 - 🎓 I’m currently a Computer Engineering Student at PUC-CP University.
 - ⚡ Fun fact: Technology Enthusiast
