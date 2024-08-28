@@ -2,5 +2,4 @@
 - 🪧(Portuguese-BR) (English)
 - 💻Languages: HTML, CSS, JavaScript, C++, C, Assembly
 - 🎓 I’m currently a Computer Engineering Student at PUC-CP University.
-- 📫 How to reach me gabrielcattuzo@gmail.com
 - ⚡ Fun fact: Technology Enthusiast
