@@ -2,7 +2,7 @@
 
 - 👨‍💻 Born in Brazil
 - 🪧 (Portuguese-BR) (English)
-- 💻 Languages: HTML, CSS, JavaScript
+- 💻 Languages: HTML, CSS, JavaScript, ROS2, C#
 - 🎓 I’m currently a Computer Engineering Student at PUC-CP University.
 - ⚡ Fun fact: Technology Enthusiast
 
