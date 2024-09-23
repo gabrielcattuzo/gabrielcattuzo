@@ -6,10 +6,9 @@
 - 🎓 I’m currently a Computer Engineering Student at PUC-CP University.
 - ⚡ Fun fact: Technology Enthusiast
 
-
 ---
 
-### GitHub Stats 📊
+### GitHub Statistics 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcattuzo&show_icons=true&theme=dark)
 
 ### Most Used Languages 💻
@@ -17,7 +16,7 @@
 
 ---
 
-### Contact Me 📫
+### How to reach me? 📫
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_cattuzo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcattuzo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-c-a89236270)
