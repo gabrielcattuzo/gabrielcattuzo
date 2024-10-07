@@ -2,7 +2,7 @@
 
 - 👨‍💻 Born in Brazil
 - 🪧 (Portuguese-BR) (English)
-- 💻 Languages: HTML, CSS, JavaScript, ROS2, C#, Assembly x86
+- 💻 Languages: HTML, CSS, JavaScript, ROS2, C, Assembly x86
 - 🎓 I’m currently a Computer Engineering Student at PUC-CP University.
 - ⚡ Fun fact: Technology Enthusiast
 
