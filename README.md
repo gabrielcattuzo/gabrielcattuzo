@@ -3,7 +3,7 @@
 - 👨‍💻 Born in Brazil
 - 🪧 (Portuguese-BR) (English)
 - 💻 Languages: HTML, CSS, JavaScript, C, Assembly x86
-- 🎓 I’m currently a Computer Engineering Student at PUC-CP University.
+- 🎓 I’m currently a Computer Engineering Student at PUC-Campinas.
 - ⚡ Fun fact: Technology Enthusiast
 
 ---
