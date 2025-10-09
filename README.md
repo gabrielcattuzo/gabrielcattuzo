@@ -1,9 +1,11 @@
 # 👋 Hi, I'm **Gabriel Cattuzo**
 
-💡 **Computer Engineering Student** at **PUC-Campinas**  
-💻 **Web Systems Developer** | Passionate about **technology and innovation**  
-🌎 Born in **Brazil** — fluent in **Portuguese (BR)** and **English**  
-⚙️ Focused on **low-level programming**, **system optimization**, and **web development**
+- 👨‍💻 Born in Brazil
+- 🪧 (Portuguese-BR) (English) 
+- 💻 Languages: HTML, CSS, JavaScript, C, Assembly x86
+- 🌐 Web Developer
+- 🎓 I’m currently a Computer Engineering Student at PUC-Campinas.
+- ⚡ Fun fact: Technology Enthusiast
 
 ---
 
