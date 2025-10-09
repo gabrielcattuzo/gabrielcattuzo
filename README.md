@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielcattuzo&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gabrielcattuzo&theme=github-dark-blue&hide_border=true)
   
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gabrielcattuzo&theme=darkhub&no-frame=true&margin-w=15&row=1&column=6)
 
