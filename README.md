@@ -68,13 +68,13 @@
 </div>
 
 ---
-<div align="center">
+<div align="center" style="font-size: 18px; margin: 20px 0;">  <!-- Aumentei o tamanho da fonte e adicionei margem -->
 ## 📫 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cattuzo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabrielcattuzo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel@cattuzo.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_cattuzo)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.cattuzo.5)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&scale=1.5)](https://cattuzo.com)  <!-- Aumentei o scale das badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5)](https://br.linkedin.com/in/gabrielcattuzo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.5)](mailto:gabriel@cattuzo.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&scale=1.5)](https://www.instagram.com/gabriel_cattuzo)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&scale=1.5)](https://www.facebook.com/gabriel.cattuzo.5)
 
 </div>
