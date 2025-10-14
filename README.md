@@ -10,6 +10,8 @@
 ---
 
 ## 🚀 Tech Stack
+
+<div align="center">
   
 **Languages & Tools:**
   
@@ -22,7 +24,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly x86](https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logoColor=white)
 
----
+</div>
 
 ## 📊 GitHub Insights
 
