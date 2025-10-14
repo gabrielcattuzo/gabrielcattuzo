@@ -10,7 +10,6 @@
 ---
 
 ## 🚀 Tech Stack
-<div align="center">
   
 **Languages & Tools:**
   
@@ -23,7 +22,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly x86](https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logoColor=white)
 
-</div>
 ---
 
 ## 📊 GitHub Insights
@@ -69,7 +67,6 @@
 
 ---
 
-<div align="center">
 ## 📫 Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cattuzo.com)
@@ -78,4 +75,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_cattuzo)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.cattuzo.5)
 
-</div>
