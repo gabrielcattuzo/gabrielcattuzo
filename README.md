@@ -30,7 +30,6 @@
 
 <div align="center">
   
-<img src="https://github.com/favicon.ico" alt="GitHub" width="20" height="20"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcattuzo&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcattuzo&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
