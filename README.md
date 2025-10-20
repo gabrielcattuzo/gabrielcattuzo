@@ -11,7 +11,8 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div align="center" style="font-size: 18px; margin: 20px 0;">
+<h2 style="font-size: 24px;">📝 Languages & Tools</h2> 
 
 **Languages & Tools:**
 
@@ -69,8 +70,8 @@
 </div>
 
 ---
-<div align="center" style="font-size: 18px; margin: 20px 0;">  <!-- Aumentei o tamanho da fonte e adicionei margem -->
-<h2 style="font-size: 24px;">📫 Connect with Me</h2>  <!-- Alterado para <h2> com estilo para aumentar o tamanho -->
+<div align="center" style="font-size: 18px; margin: 20px 0;">
+<h2 style="font-size: 24px;">📫 Connect with Me</h2> 
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&scale=1.5)](https://cattuzo.com)  <!-- Aumentei o scale das badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5)](https://br.linkedin.com/in/gabrielcattuzo)
