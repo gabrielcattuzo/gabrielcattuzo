@@ -26,9 +26,8 @@
 
 </div>
 
-## 📊 GitHub Insights
-
-<div align="center">
+<div align="center" style="font-size: 18px; margin: 20px 0;">
+<h2 style="font-size: 24px;">📊 GitHub Insights</h2> 
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcattuzo&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcattuzo&layout=compact&theme=github_dark&hide_border=true)
@@ -37,9 +36,8 @@
 
 ---
 
-## 🔥 Contributions & Streaks
-
-<div align="center">
+<div align="center" style="font-size: 18px; margin: 20px 0;">
+<h2 style="font-size: 24px;">🔥 Contributions & Streaks</h2> 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gabrielcattuzo&theme=github-dark-blue&hide_border=true)
   
@@ -49,9 +47,8 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
+<div align="center" style="font-size: 18px; margin: 20px 0;">
+<h2 style="font-size: 24px;">📈 Activity Graph</h2> 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielcattuzo&theme=react-dark&hide_border=true)
 
@@ -59,10 +56,9 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
+<div align="center" style="font-size: 18px; margin: 20px 0;">
+<h2 style="font-size: 24px;">🐍 Contribution Snake</h2> 
+  
 ![Snake animation](https://raw.githubusercontent.com/gabrielcattuzo/gabrielcattuzo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
