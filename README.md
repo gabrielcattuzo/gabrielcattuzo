@@ -14,8 +14,6 @@
 <div align="center" style="font-size: 18px; margin: 20px 0;">
 <h2 style="font-size: 24px;">📝 Languages & Tools</h2> 
 
-**Languages & Tools:**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
