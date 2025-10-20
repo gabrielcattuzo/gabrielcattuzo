@@ -1,33 +1,35 @@
-<div align="center" style="font-size: 18px; margin: 20px 0;">
-<h2 style="font-size: 24px;">👋 Hi, I'm **Gabriel Cattuzo**</h2> 
+# 👋 Hi, I'm **Gabriel Cattuzo**
+
 - 👨‍💻 Born in Brazil
 - 🪧 (Portuguese-BR) (English) 
 - 💻 Languages: HTML, CSS, JavaScript, C, Assembly x86
 - 🌐 Web Developer
 - 🎓 I’m currently a Computer Engineering Student at PUC-Campinas.
 - ⚡ Fun fact: Technology Enthusiast
-</div>
+
 ---
 
 ## 🚀 Tech Stack
 
-<div align="center" style="font-size: 18px; margin: 20px 0;">
-<h2 style="font-size: 24px;">📝 Languages & Tools</h2> 
-
+<div align="center">
+  
+**Languages & Tools:**
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Assembly x86](https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logoColor=white)
+![Assembly x86](https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logo=intel&logoColor=white)
 
 </div>
 
-<div align="center" style="font-size: 18px; margin: 20px 0;">
-<h2 style="font-size: 24px;">📊 GitHub Insights</h2> 
+## 📊 GitHub Insights
+
+<div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielcattuzo&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcattuzo&layout=compact&theme=github_dark&hide_border=true)
@@ -36,8 +38,9 @@
 
 ---
 
-<div align="center" style="font-size: 18px; margin: 20px 0;">
-<h2 style="font-size: 24px;">🔥 Contributions & Streaks</h2> 
+## 🔥 Contributions & Streaks
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gabrielcattuzo&theme=github-dark-blue&hide_border=true)
   
@@ -47,8 +50,9 @@
 
 ---
 
-<div align="center" style="font-size: 18px; margin: 20px 0;">
-<h2 style="font-size: 24px;">📈 Activity Graph</h2> 
+## 📈 Activity Graph
+
+<div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielcattuzo&theme=react-dark&hide_border=true)
 
@@ -56,16 +60,17 @@
 
 ---
 
-<div align="center" style="font-size: 18px; margin: 20px 0;">
-<h2 style="font-size: 24px;">🐍 Contribution Snake</h2> 
-  
+## 🐍 Contribution Snake
+
+<div align="center">
+
 ![Snake animation](https://raw.githubusercontent.com/gabrielcattuzo/gabrielcattuzo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
-<div align="center" style="font-size: 18px; margin: 20px 0;">
-<h2 style="font-size: 24px;">📫 Connect with Me</h2> 
+<div align="center" style="font-size: 18px; margin: 20px 0;">  <!-- Aumentei o tamanho da fonte e adicionei margem -->
+<h2 style="font-size: 24px;">📫 Connect with Me</h2>  <!-- Alterado para <h2> com estilo para aumentar o tamanho -->
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&scale=1.5)](https://cattuzo.com)  <!-- Aumentei o scale das badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5)](https://br.linkedin.com/in/gabrielcattuzo)
