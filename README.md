@@ -1,12 +1,12 @@
-# 👋 Hi, I'm **Gabriel Cattuzo**
-
+<div align="center" style="font-size: 18px; margin: 20px 0;">
+<h2 style="font-size: 24px;">👋 Hi, I'm **Gabriel Cattuzo**</h2> 
 - 👨‍💻 Born in Brazil
 - 🪧 (Portuguese-BR) (English) 
 - 💻 Languages: HTML, CSS, JavaScript, C, Assembly x86
 - 🌐 Web Developer
 - 🎓 I’m currently a Computer Engineering Student at PUC-Campinas.
 - ⚡ Fun fact: Technology Enthusiast
-
+</div>
 ---
 
 ## 🚀 Tech Stack
