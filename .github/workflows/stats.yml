@@ -2,10 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    # Atualiza automaticamente a cada 12 horas
     - cron: "0 */12 * * *"
 
-  # Permite executar manualmente pela aba Actions
   workflow_dispatch:
 
 permissions:
@@ -17,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -44,7 +42,7 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-       - name: Commit updated cards
+      - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -55,7 +53,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update GitHub stats"
-
             git pull --rebase origin main
             git push origin main
           fi
