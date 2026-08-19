@@ -71,9 +71,9 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielcattuzo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="170" src="./profile/stats.svg" alt="Gabriel Cattuzo GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcattuzo&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="./profile/top-langs.svg" alt="Gabriel Cattuzo Top Languages" />
 
 </div>
 
@@ -83,7 +83,7 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gabrielcattuzo&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=gabrielcattuzo&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -91,7 +91,7 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielcattuzo&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielcattuzo&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -101,7 +101,7 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcattuzo&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcattuzo&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
