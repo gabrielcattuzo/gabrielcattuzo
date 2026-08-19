@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -38,10 +40,8 @@ jobs:
       - name: Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: gabrielcattuzo
-          theme: github-dark-blue
-          hide_border: true
-          output: profile/streak.svg
+          options: user=gabrielcattuzo&theme=github-dark-blue&hide_border=true&disable_animations=true
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit updated cards
@@ -55,5 +55,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update GitHub stats"
-            git push
+
+            git pull --rebase origin main
+            git push origin main
           fi
