@@ -83,7 +83,7 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gabrielcattuzo&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 

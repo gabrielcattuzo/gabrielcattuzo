@@ -35,6 +35,15 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate GitHub Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: gabrielcattuzo
+          theme: github-dark-blue
+          hide_border: true
+          output: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
