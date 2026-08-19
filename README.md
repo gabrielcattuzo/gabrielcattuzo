@@ -91,7 +91,7 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielcattuzo&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
 
 </div>
 

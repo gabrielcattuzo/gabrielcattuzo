@@ -42,6 +42,13 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate GitHub Trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: username=gabrielcattuzo&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
