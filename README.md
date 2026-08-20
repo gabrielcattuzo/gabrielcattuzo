@@ -42,6 +42,7 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
