@@ -42,6 +42,7 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
@@ -51,6 +52,12 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Tools & Technologies
