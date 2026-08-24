@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gabriel Cattuzo
 
-### Computer Engineering Student • Developer • Technology Enthusiast
+### Computer Engineering Student • Developer 
 
 <p>
   <a href="https://cattuzo.com">
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student at PUC-Campinas**, passionate about technology, software development, computer systems, and learning how things work under the hood.
+I'm a **Computer Engineering student at PUC-Campinas** software development, computer systems, and learning how things work under the hood.
 
 - 🎓 Computer Engineering student at **PUC-Campinas**
 - 🇧🇷 Based in **Brazil**
@@ -27,7 +27,6 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
 - 💻 Interested in **Software Development, Computer Systems, Networking, and Web Development**
 - 🌐 Building projects for the web and exploring different areas of Computer Engineering
 - 🚀 Always learning new technologies and improving my development skills
-- ⚡ Technology enthusiast
 
 ---
 
@@ -147,13 +146,5 @@ I'm a **Computer Engineering student at PUC-Campinas**, passionate about technol
 <a href="https://www.facebook.com/gabriel.cattuzo.5">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Code • Learn • Build • Repeat
 
 </div>
