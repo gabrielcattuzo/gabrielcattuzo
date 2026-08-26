@@ -1,0 +1,56 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Download Activity Graph
+        run: |
+          curl \
+            --fail \
+            --silent \
+            --show-error \
+            --location \
+            "https://github-readme-activity-graph.vercel.app/graph?username=gabrielcattuzo&theme=react-dark&hide_border=true&area=true" \
+            --output profile/activity-graph-new.svg
+
+      - name: Validate SVG
+        run: |
+          if grep -q "<svg" profile/activity-graph-new.svg; then
+            mv profile/activity-graph-new.svg profile/activity-graph.svg
+            echo "Activity Graph atualizado com sucesso."
+          else
+            echo "Resposta recebida não é um SVG válido."
+            rm -f profile/activity-graph-new.svg
+            exit 1
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/activity-graph.svg
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração encontrada."
+          else
+            git commit -m "update activity graph"
+            git push
+          fi
