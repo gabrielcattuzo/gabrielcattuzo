@@ -23,7 +23,7 @@ jobs:
           username: gabrielcattuzo
           token: ${{ secrets.GITHUB_TOKEN }}
           output_path: profile/activity-graph.svg
-          options: theme=react-dark&hide_border=true&area=true
+          options: theme=react-dark&hide_border=true&area=false
 
       - name: Commit changes
         run: |
