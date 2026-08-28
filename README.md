@@ -107,7 +107,7 @@ I'm a **Computer Engineering student at PUC-Campinas** software development, com
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcattuzo&theme=react-dark&hide_border=true&area=true" />
+<img src="./profile/activity-graph.svg" alt="GitHub Activity Graph" />
 
 </div>
 
