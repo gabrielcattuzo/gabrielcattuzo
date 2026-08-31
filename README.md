@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gabriel Cattuzo
 
-### Computer Engineering Student • Developer 
+### Computer Engineering Student • Software & Systems Developer
 
 <p>
   <a href="https://cattuzo.com">
@@ -19,20 +19,66 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student at PUC-Campinas** software development, computer systems, and learning how things work under the hood.
+I'm a **Computer Engineering student at PUC-Campinas**, interested in software development, computer systems, networking, artificial intelligence, and low-level programming.
 
-- 🎓 Computer Engineering student at **PUC-Campinas**
-- 🇧🇷 Based in **Brazil**
-- 🗣️ Portuguese (Native) • English
-- 💻 Interested in **Software Development, Computer Systems, Networking, and Web Development**
-- 🌐 Building projects for the web and exploring different areas of Computer Engineering
-- 🚀 Always learning new technologies and improving my development skills
+I enjoy understanding how software interacts with hardware, from high-level applications to concepts such as **memory, processors, operating systems, networks, algorithms, and computer architecture**.
+
+* 🎓 Computer Engineering student at **PUC-Campinas**
+* 🇧🇷 Based in **Brazil**
+* 🗣️ Portuguese — Native • English
+* 💻 Interested in **Software Development, Computer Systems, Networking, AI and Computer Architecture**
+* ⚙️ Exploring both **high-level and low-level programming**
+* 🌐 Developing web applications and personal projects
+* 🧠 Currently studying topics related to **Artificial Intelligence, Machine Learning and Intelligent Systems**
+* 🚀 Always experimenting with new technologies and expanding my engineering skills
+
+---
+
+## 🚀 Featured Projects
+
+### 🖥️ [Computer Systems Architecture](https://github.com/gabrielcattuzo/Arquitetura-de-Sistemas-Operacionais)
+
+Studies and implementations focused on **Assembly MIPS, C, processor architecture, registers, memory and low-level programming**.
+
+The repository includes exercises that translate programs written in C into Assembly, helping demonstrate how high-level structures such as loops, conditions and arithmetic operations are represented at processor level.
+
+`Assembly MIPS` `C` `Computer Architecture` `Low-Level Programming`
+
+---
+
+### 🤖 [Intelligent Systems & Machine Learning](https://github.com/gabrielcattuzo/PI-Sistemas-Inteligentes-e-Machine-Learning)
+
+Academic implementations involving **Artificial Intelligence concepts, search algorithms and data structures**.
+
+Includes experiments with **Breadth-First Search (BFS), Depth-First Search (DFS), trees, queues, state-space exploration and algorithmic problem solving**.
+
+`C` `Artificial Intelligence` `BFS` `DFS` `Algorithms`
+
+---
+
+### 🚢 [Battleship in x86 Assembly](https://github.com/gabrielcattuzo/batalha-naval-assembly)
+
+A low-level implementation of the classic **Battleship game using x86 Assembly**.
+
+The project explores programming closer to the hardware while applying game logic and fundamental computer architecture concepts.
+
+`Assembly x86` `Low-Level Programming` `Computer Architecture`
+
+---
+
+### 🔐 [Interactive Safe](https://github.com/gabrielcattuzo/cofre)
+
+An interactive safe simulation developed in **C**, featuring password validation, multiple operating states and simulated bus communication.
+
+The project explores concepts involving **state management, system logic and hardware/software interaction**.
+
+`C` `Embedded Concepts` `State Machines`
 
 ---
 
 <div align="center">
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -44,6 +90,7 @@ I'm a **Computer Engineering student at PUC-Campinas** software development, com
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly%20MIPS-6E4C13?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Web Development
@@ -91,11 +138,7 @@ I'm a **Computer Engineering student at PUC-Campinas** software development, com
 
 <img src="./profile/streak.svg" alt="GitHub Streak" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 
@@ -136,15 +179,11 @@ I'm a **Computer Engineering student at PUC-Campinas** software development, com
 </a>
 
 <a href="mailto:gabriel@cattuzo.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/gabriel_cattuzo">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/gabriel.cattuzo.5">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 </div>
