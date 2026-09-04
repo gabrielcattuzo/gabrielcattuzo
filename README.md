@@ -4,12 +4,17 @@
 
 ### Computer Engineering Student • Software & Systems Developer
 
+**Building software from high-level applications to low-level systems.**
+
 <p>
   <a href="https://cattuzo.com">
-    <img src="https://img.shields.io/badge/Website-cattuzo.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-cattuzo.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://br.linkedin.com/in/gabrielcattuzo">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Cattuzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Cattuzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabriel@cattuzo.com">
+    <img src="https://img.shields.io/badge/Email-gabriel%40cattuzo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -19,38 +24,50 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student at PUC-Campinas**, interested in software development, computer systems, networking, artificial intelligence, and low-level programming.
+I'm a **Computer Engineering student at PUC-Campinas** interested in software development and understanding how computers work across different abstraction levels.
 
-I enjoy understanding how software interacts with hardware, from high-level applications to concepts such as **memory, processors, operating systems, networks, algorithms, and computer architecture**.
+My projects range from **web applications and high-level software** to **computer architecture, networking, operating systems and low-level programming**.
 
-* 🎓 Computer Engineering student at **PUC-Campinas**
-* 🇧🇷 Based in **Brazil**
+I enjoy working with algorithms, data structures and systems where software interacts closely with hardware.
+
+* 🎓 Computer Engineering at **PUC-Campinas**
+* 💻 Software Development & Computer Systems
+* ⚙️ High-level and Low-level Programming
+* 🌐 Networking & Web Development
+* 🧠 Algorithms, Artificial Intelligence & Intelligent Systems
+* 🖥️ Computer Architecture & Operating Systems
+* 🇧🇷 Brazil
 * 🗣️ Portuguese — Native • English
-* 💻 Interested in **Software Development, Computer Systems, Networking, AI and Computer Architecture**
-* ⚙️ Exploring both **high-level and low-level programming**
-* 🌐 Developing web applications and personal projects
-* 🧠 Currently studying topics related to **Artificial Intelligence, Machine Learning and Intelligent Systems**
-* 🚀 Always experimenting with new technologies and expanding my engineering skills
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🧊 Rubik's Cube AI Solver
+
+Rubik's Cube solver developed in **C++**, focused on cube representation, movement simulation and algorithmic solving techniques.
+
+The project explores **state representation, search algorithms, optimization and artificial intelligence concepts** applied to a complex combinatorial problem.
+
+`C++` `Algorithms` `Artificial Intelligence` `Search`
+
+---
+
 ### 🖥️ [Computer Systems Architecture](https://github.com/gabrielcattuzo/Arquitetura-de-Sistemas-Operacionais)
 
-Studies and implementations focused on **Assembly MIPS, C, processor architecture, registers, memory and low-level programming**.
+Studies and implementations focused on the interaction between software and hardware using **C and MIPS Assembly**.
 
-The repository includes exercises that translate programs written in C into Assembly, helping demonstrate how high-level structures such as loops, conditions and arithmetic operations are represented at processor level.
+Includes exercises involving **registers, memory, processor architecture and translation of high-level C structures into Assembly instructions**.
 
-`Assembly MIPS` `C` `Computer Architecture` `Low-Level Programming`
+`C` `MIPS Assembly` `Computer Architecture` `Low-Level Programming`
 
 ---
 
 ### 🤖 [Intelligent Systems & Machine Learning](https://github.com/gabrielcattuzo/PI-Sistemas-Inteligentes-e-Machine-Learning)
 
-Academic implementations involving **Artificial Intelligence concepts, search algorithms and data structures**.
+Academic implementations involving **artificial intelligence, search algorithms and data structures**.
 
-Includes experiments with **Breadth-First Search (BFS), Depth-First Search (DFS), trees, queues, state-space exploration and algorithmic problem solving**.
+Includes implementations of **Breadth-First Search (BFS), Depth-First Search (DFS), trees, queues and state-space exploration**.
 
 `C` `Artificial Intelligence` `BFS` `DFS` `Algorithms`
 
@@ -58,9 +75,9 @@ Includes experiments with **Breadth-First Search (BFS), Depth-First Search (DFS)
 
 ### 🚢 [Battleship in x86 Assembly](https://github.com/gabrielcattuzo/batalha-naval-assembly)
 
-A low-level implementation of the classic **Battleship game using x86 Assembly**.
+Implementation of the classic **Battleship game entirely in x86 Assembly**.
 
-The project explores programming closer to the hardware while applying game logic and fundamental computer architecture concepts.
+The project explores game logic while applying concepts related to **memory management, control flow and low-level programming**.
 
 `Assembly x86` `Low-Level Programming` `Computer Architecture`
 
@@ -68,11 +85,19 @@ The project explores programming closer to the hardware while applying game logi
 
 ### 🔐 [Interactive Safe](https://github.com/gabrielcattuzo/cofre)
 
-An interactive safe simulation developed in **C**, featuring password validation, multiple operating states and simulated bus communication.
+Interactive safe simulation developed in **C**, featuring password validation, multiple operating states and simulated communication between system components.
 
-The project explores concepts involving **state management, system logic and hardware/software interaction**.
+The project applies concepts involving **state machines, system logic and hardware/software interaction**.
 
-`C` `Embedded Concepts` `State Machines`
+`C` `State Machines` `Embedded Concepts`
+
+---
+
+### 🌱 [Semente Digital](https://github.com/gabrielcattuzo/semente.digital)
+
+Web project focused on **Green IT and digital sustainability**, exploring topics such as energy consumption, electronic waste, carbon footprint and smart cities.
+
+`HTML` `CSS` `JavaScript` `Green IT`
 
 ---
 
@@ -83,37 +108,31 @@ The project explores concepts involving **state management, system logic and har
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly%20MIPS-6E4C13?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" alt="C, C++, Java, Python, JavaScript and TypeScript" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Assembly%20x86-6E4C13?style=for-the-badge&logo=intel&logoColor=white" alt="Assembly x86" />
+  <img src="https://img.shields.io/badge/Assembly%20MIPS-6E4C13?style=for-the-badge" alt="Assembly MIPS" />
+  <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge" alt="VHDL" />
 </p>
 
 ### Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="HTML, CSS and Node.js" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux and VS Code" />
 </p>
 
 </div>
@@ -137,10 +156,6 @@ The project explores concepts involving **state management, system logic and har
 <div align="center">
 
 <img src="./profile/streak.svg" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="./profile/trophy.svg" alt="GitHub Trophies" />
 
 </div>
 
@@ -166,24 +181,27 @@ The project explores concepts involving **state management, system logic and har
 
 ---
 
-## 📫 Connect with Me
-
 <div align="center">
 
-<a href="https://cattuzo.com">
-  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+## 📫 Connect with Me
 
-<a href="https://br.linkedin.com/in/gabrielcattuzo">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Interested in software development, computer systems or technology?
 
-<a href="mailto:gabriel@cattuzo.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Feel free to reach out.
 
-<a href="https://www.instagram.com/gabriel_cattuzo">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<p>
+  <a href="https://cattuzo.com">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://br.linkedin.com/in/gabrielcattuzo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabriel@cattuzo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/gabriel_cattuzo">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 </div>
